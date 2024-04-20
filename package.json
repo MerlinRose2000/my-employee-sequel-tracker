@@ -1,0 +1,25 @@
+{
+  "name": "my-employee-sequel-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MerlinRose2000/my-employee-sequel-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MerlinRose2000/my-employee-sequel-tracker/issues"
+  },
+  "homepage": "https://github.com/MerlinRose2000/my-employee-sequel-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.6",
+    "mysql2": "^3.9.6"
+  }
+}
